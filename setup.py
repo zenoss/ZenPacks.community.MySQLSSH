@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.MySQLSSH'
 VERSION = '0.4'
 AUTHOR = 'Matt Ray'
-LICENSE = 'GPLv2'
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.MySQLSSH']
 INSTALL_REQUIRES = []
